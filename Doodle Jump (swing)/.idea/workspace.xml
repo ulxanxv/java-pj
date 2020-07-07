@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Doodle Jump:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b22ecf3-dfd6-4a43-aa2c-47e437407d25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Grand Project/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Grand Project/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Grand Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/rain/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/rain/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects/rain/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Сompound Line/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Grand Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Grand Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Grand Project/out/production/GrandProject/Warrior.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Grand Project/out/production/GrandProject/Warrior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Grand Project/src/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Grand Project/src/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/META-INF/MessengerTwo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/ServerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/ServerThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/UserInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/MessengerTwo/UserInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/audio/sound/ss.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MessengerTwo/out/production/audio/sound/ss.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/MultiSerber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/MultiSerber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Non-name/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Non-name/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Swing/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Swing/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Swing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Swing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/CoordSnake.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/CoordSnake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/Eat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/Eat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/Key.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/Key.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/META-INF/Swing.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/Snake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/Window$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/Window$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Swing/out/production/Swing/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/out/production/Tower Defense/Canvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/out/production/Tower Defense/Canvas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/out/production/Tower Defense/Condition.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/out/production/Tower Defense/Condition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/out/production/Tower Defense/META-INF/Tower Defense.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/out/production/Tower Defense/Warrior.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/out/production/Tower Defense/Warrior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/out/production/Tower Defense/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/out/production/Tower Defense/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/src/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Tower Defense/src/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/appstart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/appstart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/erty/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/erty/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/rain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/rain/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/rain/out/production/rain/Frame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/rain/out/production/rain/Frame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/rain/out/production/rain/Rain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/rain/out/production/rain/Rain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/rain/src/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/rain/src/Frame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/sin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/sin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Ищщл/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/Ищщл/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Snake/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Snake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tic Tac Toe (with network)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tic Tac Toe (with network)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Сompound Line/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Сompound Line/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Сompound Line/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Сompound Line/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Сompound Line/out/production/untitled17/Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Сompound Line/out/production/untitled17/Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Сompound Line/src/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Сompound Line/src/Action.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Sc0e68Kn2AkhdmH9nC3XdkrosQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Doodle Jump" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Window" />
+      <module name="Doodle Jump" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b22ecf3-dfd6-4a43-aa2c-47e437407d25" name="Default Changelist" comment="" />
+      <created>1571847668183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571847668183</updated>
+      <workItem from="1576679822968" duration="268000" />
+      <workItem from="1576680234962" duration="1833000" />
+      <workItem from="1576718882801" duration="631000" />
+      <workItem from="1577096480016" duration="3170000" />
+      <workItem from="1580737311892" duration="115000" />
+      <workItem from="1580737481163" duration="571000" />
+      <workItem from="1580740084718" duration="719000" />
+      <workItem from="1580750411964" duration="6000" />
+      <workItem from="1581926185169" duration="307000" />
+      <workItem from="1582493554598" duration="4000" />
+      <workItem from="1582493569987" duration="5000" />
+      <workItem from="1583258624744" duration="892000" />
+      <workItem from="1588424260526" duration="137000" />
+      <workItem from="1590522325447" duration="817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1583259865945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583259865945" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590523359231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590523359231" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590523359231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590523359231" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590523359230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590523359230" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590523359231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590523359231" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1588424260990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588424260990" />
+  </component>
+</project>
